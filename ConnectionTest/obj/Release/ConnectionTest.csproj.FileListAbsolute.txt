@@ -1,0 +1,8 @@
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Release\ConnectionTest.exe.config
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Release\ConnectionTest.exe
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Release\ConnectionTest.pdb
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Release\ConnectionTest.csproj.AssemblyReference.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Release\ConnectionTest.csproj.SuggestedBindingRedirects.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Release\ConnectionTest.csproj.CoreCompileInputs.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Release\ConnectionTest.exe
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Release\ConnectionTest.pdb

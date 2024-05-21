@@ -1,0 +1,16 @@
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.exe.config
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.exe
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.pdb
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.AssemblyReference.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.SuggestedBindingRedirects.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.CoreCompileInputs.cache
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.exe
+D:\OutSource\CONNECT\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.pdb
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.exe.config
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.AssemblyReference.cache
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.csproj.CoreCompileInputs.cache
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.exe
+C:\Users\aaaa\Desktop\ConnectionDLL\ConnectionTest\obj\Debug\ConnectionTest.pdb
